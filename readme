@@ -1,15 +1,15 @@
-🌐 Java Developer | Spring Boot & Angular Enthusiast | Data Visualization
+🌐 **Java Developer | Spring Boot & Angular Enthusiast | Data Visualization**
 
 Hello! I'm a passionate Java developer with hands-on experience in building robust applications with Spring Boot. My projects include backend services deployed on Tomcat and enhanced with JWT-based authentication, MongoDB for secure data storage, and Maven repositories to streamline dependencies.
 
-🔧 Key Skills and Focus Areas:
+🔧 **Key Skills and Focus Areas: **
 
 * Spring Boot & Security: Expert in configuring RESTful APIs with JWT authentication and secure session management.
 * Data Handling & Visualization: Skilled in working with real-time data, transforming it into meaningful visualizations with tools like Chart.js and ECharts. I enjoy turning complex data points (like motor current and sales logs) into insightful dashboards.
 * Front-End Development: Currently learning Angular to complement my back-end skills and improve full-stack capabilities.
 * Database Proficiency: Experience with SQL and MongoDB to manage large datasets, especially for energy consumption and log analytics.
 
-📈 Recent Projects:
+📈 **Recent Projects: **
 
 * Automated kWh calculation for 3-phase systems.
 * Dynamic chart generation using Chart.js for visual monitoring.
